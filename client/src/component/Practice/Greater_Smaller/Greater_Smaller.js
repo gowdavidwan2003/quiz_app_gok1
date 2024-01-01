@@ -71,7 +71,7 @@ const Greater_Smaller = () => {
     const Header = () => {
       return (
         <div className="header">
-          <h1>Which is the smaller between the two ? </h1>
+          <h1>Which is the greater between the two ? </h1>
         </div>
       );
     };
